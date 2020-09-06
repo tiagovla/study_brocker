@@ -1,0 +1,11 @@
+# Generated files
+bin/*
+!bin/README
+
+# Executables
+*.exe
+*.out
+*.app
+
+
+
